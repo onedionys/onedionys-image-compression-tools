@@ -1,6 +1,6 @@
 {
   "name": "onedionys-image-compression-tools",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Image Compression Tools) - Tools to dynamically compress images on the client side, improving performance and page load speed.",
   "main": "src/imageCompression.js",
   "directories": {
